@@ -1,7 +1,7 @@
 # Simple Binance Trader
 
 # Disclaimer
-This is just a software, it's results are informed but they are not guranteed to earn you money. Be careful when trading and please be responsible
+This is just a software, it's results are informed but they are not guranteed to earn you money. Be careful when trading and please be responsible. For best performance. daily optimization is recomended, the less optimization the better although.
 
 ## Description
 This is a simple binance trader that uses the REST api and sockets to allow automation or manipulation of account detail/data. The script which in the default configuration uses a basic MACD trading setup to trade. The script however is very customisable and you'll be able to configure it as you with via the help of the document in the usage section.
